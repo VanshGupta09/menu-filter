@@ -1,0 +1,15 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.img-fluid {
+  height: 100% !important;
+  width: 100% !important;
+}
+
+.card {
+  margin-inline: 20px;
+}
