@@ -5,7 +5,7 @@ const Menu = [
         category: "breakfast",
         price: "40₹",
         decription: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
-        img: "src/assets/maggie.jpg"
+        img: "./src/assets/maggie.jpg"
     },
     {
         id: 2,
@@ -13,7 +13,7 @@ const Menu = [
         category: "lunch",
         price: "50₹",
         decription: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
-        img: "src/assets/allo-pakora.jpg"
+        img: "./src/assets/allo-pakora.jpg"
     },
     {
         id: 3,
@@ -21,7 +21,7 @@ const Menu = [
         category: "evening",
         price: "60₹",
         decription: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
-        img: "src/assets/chole.jpg"
+        img: "./src/assets/chole.jpg"
     },
     {
         id: 4,
@@ -29,7 +29,7 @@ const Menu = [
         category: "dinner",
         price: "30₹",
         decription: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
-        img: "src/assets/corn.jpg"
+        img: "./src/assets/corn.jpg"
     },
     {
         id: 5,
@@ -37,7 +37,7 @@ const Menu = [
         category: "breakfast",
         price: "60₹",
         decription: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
-        img: "src/assets/sweet.jpg"
+        img: ",.src/assets/sweet.jpg"
     },
     {
         id: 6,
@@ -45,7 +45,7 @@ const Menu = [
         category: "lunch",
         price: "50₹",
         decription: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
-        img: "src/assets/rajma-chawal.jpg"
+        img: "./src/assets/rajma-chawal.jpg"
     },
     {
         id: 7,
@@ -53,14 +53,14 @@ const Menu = [
         category: "evening",
         price: "70₹",
         decription: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
-        img: "src/assets/pizza.jpg"
+        img: "./src/assets/pizza.jpg"
     }, {
         id: 8,
         name: "non veg thali",
         category: "dinner",
         price: "100₹",
         decription: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
-        img: "src/assets/non-veg-thali.jpg"
+        img: "./src/assets/non-veg-thali.jpg"
     }
 ]
 
